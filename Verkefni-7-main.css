@@ -1,0 +1,45 @@
+*{
+    box-sizing:border-box; 
+}
+
+body
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0 auto;
+    padding: 0;
+}
+
+article
+{
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header-title
+{
+    text-align: center;
+    font-size: 1em;
+}
+
+.logo
+{
+    object-fit: contain;
+}
+
+.menu-logo
+{
+    padding-top: 15px;
+    width: 100%;
+}
+
+.menu-wrapper
+{
+
+}
+
+.menu-input
+{
+
+}
+
